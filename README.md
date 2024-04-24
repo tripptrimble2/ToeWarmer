@@ -15,7 +15,8 @@
 ## Dataset Description
 
 Title: Motor Vehicle Collisions - Crashes
-Source: NYC Open Data
+
+Source: https://catalog.data.gov/dataset
 
 Description:
 The Motor Vehicle Collisions dataset encompasses detailed records of traffic collisions reported by the police across New York City. Each entry in the crash table represents an individual collision event, documented by the police via the MV-104AN form. This form is mandated for all collisions involving injury, fatality, or substantial property damage (exceeding $1000).
