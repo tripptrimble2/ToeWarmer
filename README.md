@@ -28,9 +28,21 @@ QUESTION: From 2012 to 2023 in NYC, what type of motor vehicle collision caused 
 
 IMPORTANCE: This question is significant because it allows people to understand the cause of frequent vehicle collision injuries within New York City. Through this visual, city officials can understand which type of accident is most frequent and which type of accident is most serious, causing the most fatalities. Furthermore, officials can observe and analyze trends in unsafe behavior, such as which type of collision has increased or has decreased. This is allowed as the data is presented over a range of years. Through the given information, city officials can create better programs to better educate against unsafe driving. They can use this information to prioritize which problems to tackle, given the trends, fatalities, and injuries presented. In addition, this information lets police know what to look out for more specifically and impose harder punishments on unsafe practices that have larger effects. This visual relates to the dataset as the data includes attributes among all collision injuries/deaths from 2012 to now.
 
+![image](https://github.com/sobaworm/ToeWarmer/assets/164225733/27d07af9-bc42-49be-ae15-6a620b61f4c1)
 
+Our investigation uncovered interesting trends in our search for the main factors contributing to motor vehicle collision injuries and fatalities in New York City between 2012 and 2023. The eleven-year period's most important contributing factors to traffic-related injuries and deaths are highlighted in the visualizations created from our large dataset.
+
+The first graphic shows a trend in the number and severity of crashes, with "Driver Inattention/Distraction" standing out as the main contributor to injuries. This pattern emphasizes how important it is for drivers to be aware of their surroundings and how policy may help. Interestingly, even though the injury cases linked to "Failure to Yield Right-of-Way" and "Unsafe Speed" exhibit sporadic variations, driver distraction has continued to take precedence over them throughout time.
 
 ![image](https://github.com/sobaworm/ToeWarmer/assets/164225733/466ce6b3-9900-4bce-992a-b6bd69e5804b)
+
+Regarding fatalities, our second graph presents a remarkably different image. While "Driver Inattention/Distraction" is still a problem, "Unsafe Speed" has a more concerning association with death rates, occasionally rising with time. This suggests that while distracted driving at moderate speeds is more likely to cause injuries, high-speed collisions are less common but have a higher potential for fatalities.
+
+When we examined how these variables intersected over time, we found that whereas some initiatives might have contributed to a decrease in a particular kind of accident, others either continued or even grew. Our data's temporal component helps us identify the times when particular actions worked and the times when they didn't, providing important insights for next traffic safety plans.
+
+This thorough evaluation provides law enforcement with useful information while also helping local leaders comprehend the nature of auto accidents. They may adjust their teaching efforts to target the most important problems, such stopping distracted driving and enforcing speed limits, with the help of our study. Additionally, the data helps the authorities target the most dangerous behaviors on NYC streets by accurately adjusting their enforcement and preventative actions.
+
+The results of our investigation, in summary, emphasize the necessity of a multimodal strategy that combines law enforcement, infrastructure development, and public education to increase road safety. We think that New York City can significantly reduce the frequency and severity of motor vehicle collisions by concentrating on these important areas.
 
 ---
 
