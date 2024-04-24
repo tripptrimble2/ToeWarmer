@@ -19,38 +19,29 @@ Title: Motor Vehicle Collisions - Crashes
 Source: https://catalog.data.gov/dataset
 
 Description:
-The Motor Vehicle Collisions dataset encompasses detailed records of traffic collisions reported by the police across New York City. Each entry in the crash table represents an individual collision event, documented by the police via the MV-104AN form. This form is mandated for all collisions involving injury, fatality, or substantial property damage (exceeding $1000).
-
-The dataset contains comprehensive details about each crash, including:
-
-Location (coordinates, street names)
-Time and Date of the incident
-Involvement (type of vehicles, number of individuals involved)
-Injuries and Fatalities (numbers broken down by participants)
-Environmental Conditions (weather, lighting)
-Outcome Details (damage estimates, law enforcement actions taken)
-
-### Objective
+Our dataset contains the details of all police-reported motor vehicle collisions in NYC. We obtained our data set through the website provided (https://catalog.data.gov/dataset). Our dataset contains a very wide variety of dimensions with different data types. We have specific information on when each crash occurred and on what specific day. Both of these data types are date and time. Each collision also has its specific ID and contains the number of people in the car killed and injured, the number of cyclists killed and injured, the number of pedestrians killed and injured, and the number of motorists killed and injured. These dimensions are of data type number (whole). Some more dimensions in this dataset include the locations of every collision like the cross street name, off-street name, and the on-street name. Also, the type of vehicles involved, and the reason why they crashed are present in this data set. All of these dimensions are of data type string. Lastly, the dataset contains the zip code, latitude, and longitude of where every collision occurred. The zip code is a data type number(whole) and has a geographical role of zip code, and the latitude and longitude are data type number(decimal) with a geographical role of latitude and longitude. Altogether, our dataset offers a comprehensive and multifaceted perspective on motor vehicle collisions in NYC that allows us to dive deep into the dimensions of every collision. 
 
 
-### Visualizations
-- **Day of the Week Analysis**: 
-- **Monthly Trend Analysis**: 
+### Question 1
+
+QUESTION: From 2012 to 2023 in NYC, what type of motor vehicle collision caused the most injuries and deaths?
+
+IMPORTANCE: This question is significant because it allows people to understand the cause of frequent vehicle collision injuries within New York City. Through this visual, city officials can understand which type of accident is most frequent and which type of accident is most serious, causing the most fatalities. Furthermore, officials can observe and analyze trends in unsafe behavior, such as which type of collision has increased or has decreased. This is allowed as the data is presented over a range of years. Through the given information, city officials can create better programs to better educate against unsafe driving. They can use this information to prioritize which problems to tackle, given the trends, fatalities, and injuries presented. In addition, this information lets police know what to look out for more specifically and impose harder punishments on unsafe practices that have larger effects. This visual relates to the dataset as the data includes attributes among all collision injuries/deaths from 2012 to now.
+
+
+
+![image](https://github.com/sobaworm/ToeWarmer/assets/164225733/466ce6b3-9900-4bce-992a-b6bd69e5804b)
 
 ---
 
-## Results Summary
+### Question 2
 
 
-## Technologies Used
-
----
-
-## Setup and Installation
 
 ---
 
-## Contributions
+## Manipulations applied to the data set for analysis:
+
 
 ---
 
@@ -58,7 +49,3 @@ Outcome Details (damage estimates, law enforcement actions taken)
 Thanks to those who provided insights and data sources.
 
 ---
-
-## License
-[MIT License](LICENSE)
-
