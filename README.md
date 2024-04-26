@@ -53,15 +53,16 @@ Importance: This question is significant because it allows public officials as w
 
 ![image](https://github.com/sobaworm/ToeWarmer/assets/164225733/5e41aefe-f491-4d9c-92d0-a8f9592d4908)
 
+This graphic displays a heat map or other comparable visualization that shows the distribution and frequency of auto accidents in the various New York City boroughs. This kind of depiction makes it easier to pinpoint particular regions or communities where accidents happen more frequently. By emphasizing these areas, the visualization is a useful tool for law enforcement and local officials to identify areas that might need improved road conditions, increased signage, or stricter traffic control measures in order to reduce dangers. The concentration of collisions in some locations may also encourage additional research into local variables, such as road design or common driving habits, that contribute to high collision rates.
+
 ![image](https://github.com/sobaworm/ToeWarmer/assets/164225733/77ca52f4-231d-43b7-82ef-6194ffa5140d)
 
+This is a time-based analysis that can show how frequently accidents occur at various periods of the day or week. A bar graph or line chart displaying peaks during rush hours or on particular days when accidents are noticeably higher could be used to illustrate this. When crashes are more likely to happen, public leaders and the general public can better allocate resources by increasing police patrols during high-risk periods, for example, according to this type of depiction. It might also have an impact on policy choices on when to change traffic light timing, raise the speed limit during rush hours, or launch focused public awareness programs about safe driving techniques at known risky times.
 
 ---
 
 ## Manipulations applied to the data set for analysis:
 <img width="675" alt="Screenshot 2024-04-26 at 3 21 26 PM" src="https://github.com/sobaworm/ToeWarmer/assets/164225733/66fab6d1-351e-4ad8-aa62-2cee1ac16119">
-
-
 In order to prepare the dataset for this analysis, a number of changes would be performed on it, beginning with data cleaning to eliminate or impute missing values and standardize inputs like dates and addresses. To make the geographical analysis simpler, feature engineering would be crucial, for example, in the creation of time bins or location clusters. In order to rank collisions according to their consequences, data aggregation would also be crucial, adding up incidents by date and place and maybe developing a severity index. To investigate their impact on collision rates, additional statistics such as traffic volume or meteorological conditions may also be integrated. These modifications improve the depth and dependability of the results and help to refine the dataset for in-depth research.
 ---
 
