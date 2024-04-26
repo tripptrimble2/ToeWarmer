@@ -61,6 +61,8 @@ Importance: This question is significant because it allows public officials as w
 ## Manipulations applied to the data set for analysis:
 <img width="675" alt="Screenshot 2024-04-26 at 3 21 26 PM" src="https://github.com/sobaworm/ToeWarmer/assets/164225733/66fab6d1-351e-4ad8-aa62-2cee1ac16119">
 
+
+In order to prepare the dataset for this analysis, a number of changes would be performed on it, beginning with data cleaning to eliminate or impute missing values and standardize inputs like dates and addresses. To make the geographical analysis simpler, feature engineering would be crucial, for example, in the creation of time bins or location clusters. In order to rank collisions according to their consequences, data aggregation would also be crucial, adding up incidents by date and place and maybe developing a severity index. To investigate their impact on collision rates, additional statistics such as traffic volume or meteorological conditions may also be integrated. These modifications improve the depth and dependability of the results and help to refine the dataset for in-depth research.
 ---
 
 ## Acknowledgments
