@@ -51,6 +51,9 @@ Question 2: When and where are the most dangerous times?
 
 Importance: This question is significant because it allows public officials as well as the public to know when these automotive accidents happen more frequently. With this information presented, police presence on the roads can be increased during more popular times, as this would encourage drivers to drive safely and more attentively. By adding more police officers only when accidents are more frequent, the government is better able to allocate resources to create a more effective program, rather than keeping them on patrol all day. This information also allows police to create more effective programs as well, such as reducing the speed limit in certain parts throughout the day. This data also provides visualization of where most accidents occur in New York City, by borough. This information is crucial as well, by allowing police to know where to go to hopefully minimize the number of accidents on a daily basis. In addition, this information can allow the public to know which times and in which areas are most dangerous to drive, so they can avoid those settings. Overall, through this information presented, city officials are better able to allocate resources more economically efficiently, and the public can be made aware of which areas are safer and more dangerous throughout the day. 
 
+![image](https://github.com/sobaworm/ToeWarmer/assets/164225733/5e41aefe-f491-4d9c-92d0-a8f9592d4908)
+
+![image](https://github.com/sobaworm/ToeWarmer/assets/164225733/77ca52f4-231d-43b7-82ef-6194ffa5140d)
 
 
 ---
