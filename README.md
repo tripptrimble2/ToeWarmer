@@ -56,7 +56,7 @@ Importance: This question is significant because it allows public officials as w
 ---
 
 ## Manipulations applied to the data set for analysis:
-
+<img width="675" alt="Screenshot 2024-04-26 at 3 21 26 PM" src="https://github.com/sobaworm/ToeWarmer/assets/164225733/66fab6d1-351e-4ad8-aa62-2cee1ac16119">
 
 ---
 
