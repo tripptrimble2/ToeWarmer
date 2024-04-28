@@ -61,6 +61,25 @@ This is a time-based analysis that can show how frequently accidents occur at va
 
 ---
 
+### Question 3
+Question 3, Tripp Trimble Honors Option: What are the most dangerous time and location conditions for cyclists?
+
+Importance: This question is significant for the safety of cyclists in New York City. The information provided shows the injuries and deaths related to cycling in New York City broken down by month, time of day, and zip code. This information is vital to the safety of cyclists in the city because it shows the conditions in which cyclists are most in danger. Drivers and cyclists can learn when and where to be on highest alert on the roads, and police are able to diagnose potential problems with traffic codes road city infrastructure, allowing them to implement programs and legislation that may save lives and reduce injuries. 
+
+<img width="1047" alt="Screenshot 2024-04-28 at 5 09 31 PM" src="https://github.com/tripptrimble2/ToeWarmer/assets/150174342/b64a012a-b634-4ebc-96df-ff33a6d15045">
+
+This graphic shows the cyclists injured and killed from July 2012 - December 2023 in New York City. The line graph shows a cyclical pattern of injuries and deaths, with highs around the Summer months, typically June through September, and with troughs in the Winter months, typically from December to February. There is a smooth cycle shown in the injury grapgh with clear high and low seasons. The trends within deaths are slightly more sporadic, however the death counts still tend to be highest in the Summer months and lowest in the Winter. This trend makes sense, as citizens are more likley to cycle during seasons with warmer weather. The higher volume of cyclists druing these seasons may explain some of the increase in accidents, but it is also important for cyclist and drivers to be more cautious during these months. 
+
+<img width="1041" alt="Screenshot 2024-04-28 at 5 09 54 PM" src="https://github.com/tripptrimble2/ToeWarmer/assets/150174342/22d250f4-d4d2-4443-ba5c-193eb5693e98">
+
+This graphic breaks down the times of day in which the most accident happen. As seen in the top line graph, the number of injuries gradually increase thorughout the day, peaking around 5 pm, then decreasing gradually until about 4 am. This cycle is likely related to traffic levels, but the line chart depicting deaths shows more about the severity of the accidents thorugout the day. This chart shows spikes of cycling related deaths at 8 am, 5 pm, and late at night from midnight to 1 am. These spikes in accident severity are likely due to more dangerous driving activities as citizens commute to and from work or home from night time activities. This information shows that these are the times that drivers, cyclists, and police should be most aware and cautious. 
+
+<img width="1056" alt="Screenshot 2024-04-28 at 5 10 19 PM" src="https://github.com/tripptrimble2/ToeWarmer/assets/150174342/b2dec33a-974f-4350-bb55-a6b073d8800b">
+
+Finally, this map shows the locations where there is most danger for cyclists. This maps shows a calulated field that counts each injury as a level one danger and each death as a level 3 danger, or [Number Of Cyclist Injured] + ([Number Of Cyclist Killed] * 3). The map uses color to depict the most dangerous areas, which are the darkest. This information can show cyclists which areas to avoid and guide police and government officials as to which areas need an increase in safety resources or changes in traffic laws. 
+
+---
+
 ## Manipulations applied to the data set for analysis:
 <img width="675" alt="Screenshot 2024-04-26 at 3 21 26 PM" src="https://github.com/sobaworm/ToeWarmer/assets/164225733/66fab6d1-351e-4ad8-aa62-2cee1ac16119">
 In order to prepare the dataset for this analysis, a number of changes would be performed on it, beginning with data cleaning to eliminate or impute missing values and standardize inputs like dates and addresses. To make the geographical analysis simpler, feature engineering would be crucial, for example, in the creation of time bins or location clusters. In order to rank collisions according to their consequences, data aggregation would also be crucial, adding up incidents by date and place and maybe developing a severity index. To investigate their impact on collision rates, additional statistics such as traffic volume or meteorological conditions may also be integrated. These modifications improve the depth and dependability of the results and help to refine the dataset for in-depth research.
